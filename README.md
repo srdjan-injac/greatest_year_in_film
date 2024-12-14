@@ -20,10 +20,16 @@ The analysis looks **individual years** and takes into account **3, 5, 7, and 10
 - **Greatest Year Based on Rotten Tomatoes Audience Scores**: *[1994]*  
 
 ## Visualizations  
-- **Top Years Based on Bins**:  
-  ![Visualization Gif](assets/images/ezgif.com-speed.gif)
+- **Trends in Ratings for Top 20 Years**:  
+  ![Visualization Gif](assets/images/trends_movies_4.png)
+- **Scatter plot for the Top 5 Years**:  
+  ![Visualization Gif](assets/images/splatter_movies_4.png)
+  
 - **Rotten Tomatoes Analysis**:  
-  ![Rotten Tomatoes Analysis](path/to/rotten_tomatoes_image.png)  
+  - **Trends in Ratings for Top 20 Years**:  
+  ![Visualization Gif](assets/images/tomato_trends.png)
+  - **Scatter plot for the Top 5 Years**:  
+  ![Visualization Gif](assets/images/splatter_tomato.png)
 
 ## Conclusion  
 By utilizing data from multiple platforms and comparing **critic** and **audience ratings**, this project provides a comprehensive perspective on the greatest years in film history. 
