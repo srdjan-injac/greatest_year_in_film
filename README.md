@@ -1,6 +1,6 @@
 # Greatest Year in Film 🎥  
 
-This project aims to uncover the **greatest year in film history**, using data from **IMDb**, **TMDb**, **Metacritic**, and **Letterboxd**. Additionally, the same methodology was applied exclusively to **Rotten Tomatoes** to analyze audience and critic ratings in depth. 
+This project aims to uncover the **greatest year in film history**, using data from **IMDb**, **TMDb**, **Metacritic**, and **Letterboxd**. Additionally, the same methodology was applied exclusively to **Rotten Tomatoes** to compare audience and critic ratings. 
 The analysis looks **individual years** and takes into account **3, 5, 7, and 10 best films by rating** for that year to identify trends and patterns.
 
 ## Data Sources  
