@@ -23,16 +23,21 @@ The analysis looks **individual years** and takes into account **3, 5, 7, and 10
 
 ### **IMDb**, **TMDb**, **Metacritic**, and **Letterboxd**
 
-- **Trends in Ratings for Top 20 Years**:  
+- **Trends in Ratings for Top 20 Years**:
+  
   ![Visualization Gif](assets/images/trends_movies_4.png)
-- **Scatter plot for the Top 5 Years**:  
+  
+- **Scatter plot for the Top 5 Years**:
+  
   ![Visualization Gif](assets/images/splatter_movies_4.png)
 
   
 ### **Rotten Tomatoes Analysis**:  
   - **Trends in Ratings for Top 20 Years**:  
   ![Visualization Gif](assets/images/tomato_trends.png)
-  - **Scatter plot for the Top 5 Years**:  
+
+  - **Scatter plot for the Top 5 Years**:
+    
   ![Visualization Gif](assets/images/splatter_tomato.png)
 
 ## Conclusion  
