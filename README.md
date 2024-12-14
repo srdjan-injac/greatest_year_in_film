@@ -21,9 +21,7 @@ The analysis looks **individual years** and takes into account **3, 5, 7, and 10
 
 ## Visualizations  
 - **Top Years Based on Bins**:  
-  ![Top Years](path/to/top_years_image.png)  
-- **Critic vs Audience Comparison**:  
-  ![Critic vs Audience](path/to/critic_vs_audience_image.png)  
+  ![Visualization Gif](assets/images/ezgif.com-speed.gif)
 - **Rotten Tomatoes Analysis**:  
   ![Rotten Tomatoes Analysis](path/to/rotten_tomatoes_image.png)  
 
