@@ -42,5 +42,3 @@ The analysis looks **individual years** and takes into account **3, 5, 7, and 10
     
   ![Visualization Gif](assets/images/splatter_tomato.png)
 
-## Conclusion  
-By utilizing data from multiple platforms and comparing **critic** and **audience ratings**, this project provides a comprehensive perspective on the greatest years in film history. 
